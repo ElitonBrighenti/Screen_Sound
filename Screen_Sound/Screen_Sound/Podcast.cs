@@ -30,7 +30,7 @@ namespace Screen_Sound
         
         public void ExibirDetalhes()
         {
-            Console.WriteLine("**** POD-CASTS ****\n");
+            Console.WriteLine("**** TESTANDO GIT ****\n");
             Console.WriteLine($"Podcast >|{Nome}|< apresentado por [{Host}]\n");
 
             foreach (Episodio ep in episodios.OrderBy(e => e.Ordem))
