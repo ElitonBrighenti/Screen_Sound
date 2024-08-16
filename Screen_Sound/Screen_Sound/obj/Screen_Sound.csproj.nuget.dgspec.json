@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\forge\\Desktop\\C#\\Screen_Sound\\Screen_Sound\\Screen_Sound.csproj": {}
+    "C:\\Users\\forge\\Desktop\\ESTUDOS\\PROJETOS C# e .NET\\Screen_Sound\\Screen_Sound\\Screen_Sound\\Screen_Sound.csproj": {}
   },
   "projects": {
-    "C:\\Users\\forge\\Desktop\\C#\\Screen_Sound\\Screen_Sound\\Screen_Sound.csproj": {
+    "C:\\Users\\forge\\Desktop\\ESTUDOS\\PROJETOS C# e .NET\\Screen_Sound\\Screen_Sound\\Screen_Sound\\Screen_Sound.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\forge\\Desktop\\C#\\Screen_Sound\\Screen_Sound\\Screen_Sound.csproj",
+        "projectUniqueName": "C:\\Users\\forge\\Desktop\\ESTUDOS\\PROJETOS C# e .NET\\Screen_Sound\\Screen_Sound\\Screen_Sound\\Screen_Sound.csproj",
         "projectName": "Screen_Sound",
-        "projectPath": "C:\\Users\\forge\\Desktop\\C#\\Screen_Sound\\Screen_Sound\\Screen_Sound.csproj",
+        "projectPath": "C:\\Users\\forge\\Desktop\\ESTUDOS\\PROJETOS C# e .NET\\Screen_Sound\\Screen_Sound\\Screen_Sound\\Screen_Sound.csproj",
         "packagesPath": "C:\\Users\\forge\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\forge\\Desktop\\C#\\Screen_Sound\\Screen_Sound\\obj\\",
+        "outputPath": "C:\\Users\\forge\\Desktop\\ESTUDOS\\PROJETOS C# e .NET\\Screen_Sound\\Screen_Sound\\Screen_Sound\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\forge\\AppData\\Roaming\\NuGet\\NuGet.Config",
