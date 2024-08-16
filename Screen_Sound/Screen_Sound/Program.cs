@@ -23,6 +23,8 @@
 
             #endregion
 
+            Console.WriteLine("TESTANDO COMMIT01");
+
             Banda queen = new Banda("Queen");
 
             Album albumDoQuenn = new Album("A night od the opera");
